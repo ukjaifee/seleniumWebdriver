@@ -18,6 +18,7 @@ public class executeTest extends getDriver {
 	   LoginPage loginpage=new LoginPage(driver);
 	  loginpage.LoginApp("TLT511", "xW7Sxp");
 	  System.out.println("Testing a code");
+	  System.out.println("Trying to stash to the local machine");
 	}
 	
 }
