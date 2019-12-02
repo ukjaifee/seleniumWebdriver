@@ -22,12 +22,11 @@ public class executeTest extends getDriver {
 	  System.out.println("Trying to stash to the local machine");
 
 	  System.out.println("Right now switching to master, let me work on master first then I will switch back dev and get dev chages");
-<<<<<<< HEAD
+
 	  
 	  System.out.println("phase 1");
 	  System.out.println("Phase 3");
-=======
->>>>>>> parent of 82c3c91... phase 1
+
  
 	}
 	
