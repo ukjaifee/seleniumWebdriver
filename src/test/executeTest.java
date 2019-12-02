@@ -23,7 +23,8 @@ public class executeTest extends getDriver {
 	  System.out.println("Right now switching to master, let me work on master first then I will switch back dev and get dev chages");
 	  
 	  System.out.println("phase 1");
-      System.out.println("phase 2");
+	  System.out.println("Phase 3");
+ 
 	}
 	
 }
