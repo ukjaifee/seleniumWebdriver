@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import com.sakValut.pages.LoginPage;
 import com.sakValut.utility.DriverTestCase;
 import com.sakValut.utility.getDriver;
-
+@Test(groups = { "ClassTest1" })
 public class executeTest extends getDriver {
 	
 	 //WebDriver driver;
@@ -26,6 +26,9 @@ public class executeTest extends getDriver {
 	  
 	  System.out.println("phase 1");
 	  System.out.println("Phase 3");
+	  System.out.println("Making a new commit");
+	  
+	  
 
  
 	}
