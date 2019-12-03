@@ -26,7 +26,7 @@ public class executeTest extends getDriver {
 	  
 	  System.out.println("phase 1");
 	  System.out.println("Phase 3");
-	  System.out.println("Making a new commit");
+	  System.out.println("Making a new commits to check the head command");
 	  
 	  
 
