@@ -16,7 +16,7 @@ public class executeTest extends getDriver {
 	@Test
 	public  void LoginIntoApp(){
 	   LoginPage loginpage=new LoginPage(driver);
-	  loginpage.LoginApp("TLT511", "xW7Sxp");
+	  loginpage.LoginApp("ammark@360logica.com", "sell@1234");
 
 	  System.out.println("Testing a code");
 
