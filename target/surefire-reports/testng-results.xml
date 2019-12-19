@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="test" duration-ms="20681" started-at="2019-12-19T11:22:39Z" finished-at="2019-12-19T11:23:00Z">
+    <groups>
+    </groups>
+    <test name="TestNg Test" duration-ms="20681" started-at="2019-12-19T11:22:39Z" finished-at="2019-12-19T11:23:00Z">
+      <class name="test.executeTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.executeTest@3cda1055]" name="setup" is-config="true" duration-ms="16740" started-at="2019-12-19T11:22:39Z" finished-at="2019-12-19T11:22:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginIntoApp()[pri:0, instance:test.executeTest@3cda1055]" name="LoginIntoApp" duration-ms="3924" started-at="2019-12-19T11:22:56Z" finished-at="2019-12-19T11:23:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginIntoApp -->
+      </class> <!-- test.executeTest -->
+    </test> <!-- TestNg Test -->
+  </suite> <!-- test -->
+</testng-results>
