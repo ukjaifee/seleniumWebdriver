@@ -3,7 +3,9 @@
 <suite name="test" parallel="false">
   <test name= "TestNg Test">
     <classes>
-      <class name="test.executeTest"/>
+      <class name="test.chromeTest1"/>
+      <class name="test.chromeTest2"/>
+      <class name="test.chromeTest3"/>
     </classes>
   </test>
 </suite> 
